@@ -62,6 +62,7 @@ machine_type = var.machine_type
   labels = {
     name = "hashicat"
     department  = "devops"
+    billable = "true"
   }
 
 }
